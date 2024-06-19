@@ -1,5 +1,5 @@
 # Conditional Debug
-A simple utility for debugging stuff to the console only if you want. Otherwise, without changing the code, do not print em!
+A simple utility for debugging stuff to the console only if you include the "-DDEBUG" filag wile compiling. Otherwise, without changing the code, do not print em!
 
 
 ### Usage
